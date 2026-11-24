@@ -1,6 +1,8 @@
 # a-day-of-one-line-pitches
 
 [![make.fun · u-ronigrv-a-day-of-one-line-pitches-12cd9bb3](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/gowther18/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3-entry/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/gowther18/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3-entry/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
 One sentence (176 characters) that would convince a friend who has never coded to let an AI agent build their first app idea on make.fun: your idea doesn't need code, it needs one sentence — describe it, the agent builds the first version, free to try and yours to keep. This program writes that one line to /output/entry.txt; a house judge compares the lines two at a time, and the best win rate takes the prize.
 
