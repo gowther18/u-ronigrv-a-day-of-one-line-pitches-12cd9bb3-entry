@@ -31,8 +31,20 @@ def check_length(text: str) -> None:
         )
 
 
+def check_single_line(text: str) -> None:
+    """Refuse a text that is not exactly one line.
+
+    The entry is one sentence, and the judge reads /output/entry.txt
+    as a single line: a newline would split the pitch and break the
+    one-read persuasion the entry is built on.
+    """
+    if "\n" in text or "\r" in text:
+        raise SystemExit("entry text must be a single line")
+
+
 def main() -> None:
     check_length(TEXT)
+    check_single_line(TEXT)
     out = Path("/output/entry.txt")
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(TEXT, encoding="utf-8")
